@@ -40,7 +40,6 @@ The table showing the results of all the four models -
 ![image](https://user-images.githubusercontent.com/76489649/233095645-fdc4e5d8-d855-4a8d-b0e8-f8aa90c2eb3d.png)
 
 4. Transfer learning using VGG16 or VGG19
-![image](https://user-images.githubusercontent.com/102377549/233109003-a2c46f0e-581e-4453-ae75-ed27a2035a44.png)
 ![image](https://user-images.githubusercontent.com/102377549/233109312-ff0d8ddf-97fd-4e14-a432-1c1aeca2649f.png)
 
 
