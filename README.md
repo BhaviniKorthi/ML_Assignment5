@@ -10,6 +10,10 @@ The table showing the results of all the four models -
 
 ![image](https://user-images.githubusercontent.com/76489649/233083072-09bdc9a4-90fc-48a3-a33d-ff9b0278837a.png)
 
+The results of the using MLP model:
+![image](https://user-images.githubusercontent.com/76489649/233112111-79be52f1-585a-4c79-a791-b6ff7e04c2aa.png)
+Observation: In MLP, we consider each pixel as a feature whereasincase of CNN, we perform feature extraction. This approach of MLP shows less perform compared to CNN, because comparing two pixels at a particular loaction may not denote same feature.
+
 ## Tensorboard  Visualization
 
 ### Scalars:
@@ -18,13 +22,6 @@ The table showing the results of all the four models -
 2. VGG (3 blocks)
 3. VGG (3 blocks) with data augmentation
 4. Transfer learning using VGG16 or VGG19
-
-# ML_Assignment5
-
-
-![image](https://user-images.githubusercontent.com/102377549/233099630-2dff38f8-4f68-4321-add7-e7fb33ef5158.png)
-
-![image](https://user-images.githubusercontent.com/102377549/233099777-83613509-ff7f-4b49-990e-b08f0691b005.png)
 
 
 ### Images:
