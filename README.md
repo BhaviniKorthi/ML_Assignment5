@@ -14,11 +14,10 @@ The table showing the results of all the four models -
 
 ### Scalars:
 
-![image](https://user-images.githubusercontent.com/76489649/233106321-3582dfed-050b-4635-9603-96183df613a1.png)
-![image](https://user-images.githubusercontent.com/76489649/233106798-b0353210-eb73-4eca-adba-9778945c0ed8.png)
-![image](https://user-images.githubusercontent.com/76489649/233106905-362c742f-ddfe-4b27-99df-a5841f23a2d7.png)
-![image](https://user-images.githubusercontent.com/76489649/233107103-12ec854e-1d0c-4a7e-8119-38be45ff8a04.png)
-
+1. VGG (1 block)
+2. VGG (3 blocks)
+3. VGG (3 blocks) with data augmentation
+4. Transfer learning using VGG16 or VGG19
 
 # ML_Assignment5
 
@@ -41,7 +40,7 @@ The table showing the results of all the four models -
 ![image](https://user-images.githubusercontent.com/76489649/233095645-fdc4e5d8-d855-4a8d-b0e8-f8aa90c2eb3d.png)
 
 4. Transfer learning using VGG16 or VGG19
-![image](https://user-images.githubusercontent.com/76489649/233108152-823ffbe1-7830-45e3-a3df-83408a9d93ab.png)
+![image](https://user-images.githubusercontent.com/102377549/233109003-a2c46f0e-581e-4453-ae75-ed27a2035a44.png)
 
 
 ## Questions:
