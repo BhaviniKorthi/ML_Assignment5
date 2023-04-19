@@ -19,6 +19,14 @@ The table showing the results of all the four models -
 3. VGG (3 blocks) with data augmentation
 4. Transfer learning using VGG16 or VGG19
 
+# ML_Assignment5
+
+
+![image](https://user-images.githubusercontent.com/102377549/233099630-2dff38f8-4f68-4321-add7-e7fb33ef5158.png)
+
+![image](https://user-images.githubusercontent.com/102377549/233099777-83613509-ff7f-4b49-990e-b08f0691b005.png)
+
+
 ### Images:
 
 1. VGG (1 block)
